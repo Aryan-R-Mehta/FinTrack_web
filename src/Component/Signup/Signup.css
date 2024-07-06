@@ -1,0 +1,24 @@
+body {
+  background-color: #f4f5f7;
+}
+.signIn-createBtn {
+  background-color: #8231d3;
+  transition: background-color 0.3s ease-in;
+  color: white;
+}
+.signIn-createBtn:hover {
+  background-color: #691bb8;
+  color: white;
+}
+
+.NA_Signup {
+  color: #8231d3;
+}
+.signup_card {
+  padding: 1rem;
+  background-color: #fff;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 0.5rem;
+  margin-top: 7vw;
+}
